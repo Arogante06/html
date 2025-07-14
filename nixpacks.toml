@@ -2,4 +2,4 @@
 cmd = ""
 
 [start]
-cmd = "serve ."
+cmd = "serve public"
